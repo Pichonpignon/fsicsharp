@@ -1,0 +1,128 @@
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\2SIO_FSI_Adminstration.exe.config
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\2SIO_FSI_Adminstration.exe
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\2SIO_FSI_Adminstration.pdb
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.AssemblyReference.cache
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.SuggestedBindingRedirects.cache
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.Accueil.resources
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.Properties.Resources.resources
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.WinForm.Connexion.resources
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.GenerateResource.cache
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.CoreCompileInputs.cache
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.exe
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.pdb
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Npgsql.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Buffers.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Memory.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Text.Json.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Threading.Channels.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.ValueTuple.dll
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Npgsql.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Buffers.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Collections.Immutable.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Memory.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Text.Json.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Threading.Channels.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.ValueTuple.xml
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.WinForm.AjoutEtudiant.resources
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.WinForm.ListeEtudiant.resources
+C:\Users\magal\source\repos\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.CopyComplete
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\2SIO_FSI_Adminstration.exe.config
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\2SIO_FSI_Adminstration.exe
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\2SIO_FSI_Adminstration.pdb
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Npgsql.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Buffers.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Collections.Immutable.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Memory.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Numerics.Vectors.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Text.Encodings.Web.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Text.Json.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Threading.Channels.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.ValueTuple.dll
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Npgsql.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Buffers.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Collections.Immutable.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Memory.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Numerics.Vectors.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Text.Encodings.Web.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Text.Json.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Threading.Channels.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.ValueTuple.xml
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.AssemblyReference.cache
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.Accueil.resources
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.Properties.Resources.resources
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.WinForm.AjoutEtudiant.resources
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.WinForm.Connexion.resources
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.WinForm.ListeEtudiant.resources
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.GenerateResource.cache
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.CoreCompileInputs.cache
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.CopyComplete
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.exe
+D:\Projet VS\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.pdb
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\2SIO_FSI_Adminstration.exe.config
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\2SIO_FSI_Adminstration.exe
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\2SIO_FSI_Adminstration.pdb
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Npgsql.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Buffers.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Memory.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Text.Json.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Threading.Channels.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.ValueTuple.dll
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\Npgsql.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Buffers.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Memory.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Text.Json.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Threading.Channels.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\bin\Debug\System.ValueTuple.xml
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.AssemblyReference.cache
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.Accueil.resources
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.Properties.Resources.resources
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.WinForm.AjoutEtudiant.resources
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.WinForm.Connexion.resources
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\_2SIO_FSI_Adminstration.WinForm.ListeEtudiant.resources
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.GenerateResource.cache
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.CoreCompileInputs.cache
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.csproj.CopyComplete
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.exe
+C:\Users\lucap\OneDrive - ORT LYON\programmation\c#\annee2\Projet C#-20240321\2SIO_FSI_Adminstration\2SIO_FSI_Adminstration\obj\Debug\2SIO_FSI_Adminstration.pdb
